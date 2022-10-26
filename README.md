@@ -1,7 +1,9 @@
+
 # Toku App
 
 A new Flutter project for Learn Language.
 
+![Google Pixel 4 XL Presentation (1)](https://user-images.githubusercontent.com/41634372/197968725-c8a32b9c-46a0-46d8-a9dc-a3a1e713cecc.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
