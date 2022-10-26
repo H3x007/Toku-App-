@@ -1,6 +1,6 @@
-# toku_app
+# Toku App
 
-A new Flutter project.
+A new Flutter project for Learn Language.
 
 ## Getting Started
 
